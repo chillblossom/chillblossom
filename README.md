@@ -1,4 +1,6 @@
 <img width="1500" height="500" alt="Image" src="https://github.com/user-attachments/assets/7ed8081a-cef0-4cf0-afb7-1914d76435d7" />
+<img width="1500" height="500" alt="Image" src="https://github.com/user-attachments/assets/afd9930c-87df-4a47-bd7f-fbe3e5b9b98a" />
+
 <h1 data-importer="text" align="center">Data-Focused Project Manager</h1>
 
 ###

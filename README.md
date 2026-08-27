@@ -1,24 +1,38 @@
+<img width="1500" height="500" alt="Image" src="https://github.com/user-attachments/assets/7ed8081a-cef0-4cf0-afb7-1914d76435d7" />
 <img width="1500" height="500" alt="Image" src="https://github.com/user-attachments/assets/afd9930c-87df-4a47-bd7f-fbe3e5b9b98a" />
 
 <h1 data-importer="text" align="center">Data-Focused Project Manager</h1>
 
 ###
 
-<div data-importer="techs" align="left">
-  
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+<div data-importer="techs" align="right">
+   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
-  
-</div>
+  <img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/ef946787-491f-4002-8ad4-2686c147d321" />
+  <img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/6f776a32-adae-49cd-8212-ce4676e9c165" />
+  <img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/260b07b8-a2d6-43ca-aa48-60aa3a9c25a2" />
+  <img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/a1952021-8b23-4846-a6d7-a4a8c8eeb150" />
+  <img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/9b05deaf-73d7-492d-9884-2b1ec3420ecc" />
+  <img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/2a934caf-4e31-4331-b46f-b37abc14742d" />
+ </div>
 
 ###
 
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
+
+
+### 🚀 About Me
+- 🌍 I'm based in New Jersey
+- 🔭 I’m currently a Data Analytics Fellow @ The Knowledge House
+- 🌱 I’m currently learning Tableau
+- 👯 I’m looking to collaborate on Open Source Projects
+- 💬 Ask me about Project Management
+- ⚡ Fun fact: A Novice Pickleball Player
+
+
+
+### 📫 How to Reach Me
+- **LinkedIn:** [Chillblossom][(https://www.linkedin.com/in/cherry-h-b6237022/)]
+- **Portfolio:** [chillblossom.com](https://yourportfolio.com)
+- **Email:** chilltech07@gmail.com
 
 ###

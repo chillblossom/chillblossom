@@ -4,7 +4,7 @@
 <h1 data-importer="text" align="center">Data-Focused Project Manager</h1>
 
 ###
-
+Analytically driven Data Professional and certified Project Manager (PMP/CAPM) with 15+ years of experience turning large, complex datasets into actionable business intelligence. Currently completing the Google Advanced Data Analytics Professional Certificate (Coursera) — building advanced competency in statistical modeling, regression analysis, machine learning, and A/B testing using Python and Tableau. Innovation Fellow at The Knowledge House applying Python, SQL, and data visualization to real-world analytics challenges. Served on the design board of a Health Electronic Record (EHR) system, applying data governance, workflow analysis, and informatics principles at the system level. Combines deep technical acumen with executive-level communication skills to bridge the gap between raw data and strategic decision-making.
 <div data-importer="techs" align="right">
    <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />

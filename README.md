@@ -32,7 +32,7 @@ Analytically driven Data Professional and certified Project Manager (PMP/CAPM) w
 
 ### 📫 How to Reach Me
 - **LinkedIn:** [Chillblossom][(https://www.linkedin.com/in/cherry-h-b6237022/)]
-- **Portfolio:** [chillblossom.com](https://yourportfolio.com)
+- **Resume:** [chillblossom.com][(https://docs.google.com/document/d/1BuAjAw-_k4Ys1zVvj7jaxqaLwEU1G5_U/edit?usp=sharing&ouid=108625969388731170976&rtpof=true&sd=true)]
 - **Email:** chilltech07@gmail.com
 
 ###
